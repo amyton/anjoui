@@ -383,6 +383,16 @@ button.trigger span::before {
   width: 100%;
 }
 
+.view-more p {
+  text-align: center;
+}
+
+.view-more a {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px 0;
+}
 
 
 /* Portrait */
@@ -398,6 +408,13 @@ button.trigger span::before {
 
     h2 {
      font-size: 1.9em;
+    }
+
+    .view-more a {
+      display: block;
+      text-align: center;
+      font-size: 16px;
+      padding: 10px 0;
     }
 
 }
@@ -416,5 +433,16 @@ button.trigger span::before {
     h2 {
      font-size: 1.9em;
     }
+
+    .view-more a {
+      display: block;
+      text-align: center;
+      font-size: 16px;
+      padding: 10px 0;
+    }
 }
+
+
+
+
 
